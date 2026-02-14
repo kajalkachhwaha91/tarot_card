@@ -6,7 +6,6 @@ const tarotCards = {
       name: "The Magician ✨",
       meaning: "You have all the skills and resources to succeed. Start now.",
     },
-    
     {
       name: "The Emperor 👑",
       meaning: "Discipline, leadership, and stability will help you rise.",
